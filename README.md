@@ -1,2 +1,30 @@
 # KingOfTheTiny
 Repo of the code from the Medium article about TinyVicuna1B GGUF
+
+<img src="https://lmsys.org/images/blog/vicuna/vicuna.jpeg" width=100>
+
+
+## Main Model repo
+https://huggingface.co/afrideva/Tiny-Vicuna-1B-GGUF
+
+Hugging Face repo: afrideva/Tiny-Vicuna-1B-GGUF
+
+Tiny Vicuna 1B
+This model is a fine-tuned version of TinyLlama on WizardVicuna Dataset. 
+It should be fully compatible with Vicuna-v1.5 series.
+This model is easy to iterate on for early experiments!
+
+- ICON from https://www.hardware-corner.net/wp-content/uploads/llm/images/Vicuna-logo.jpg
+- PLOTLY tutorial https://plotly.com/python/text-and-annotations/
+- COLOR codes from https://html-color.codes/gold/chart
+- PROMPT TEMPLATE RESOURCE: https://www.hardware-corner.net/llm-database/Vicuna/
+- MAIN REPO OF LLM INFO: https://www.hardware-corner.net/llm-database/
+- CONTEXT https://github.com/fabiomatricardi/cdQnA/blob/main/KS-all-info_rev1.txt
+
+---
+ 
+### Generation examples
+
+
+
+
