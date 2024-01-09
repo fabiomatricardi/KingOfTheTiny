@@ -24,7 +24,13 @@ This model is easy to iterate on for early experiments!
 ---
  
 ### Generation examples
+Here few screenshots with different use cases
 
+#### RAG
+<img src="https://github.com/fabiomatricardi/KingOfTheTiny/blob/main/Screenshot%202024-01-09%20alle%2014.14.38.png" width=800>
 
+#### Summarization
+<img src="https://github.com/fabiomatricardi/KingOfTheTiny/blob/main/Screenshot%202024-01-09%20alle%2014.19.21.png" width=800>
 
-
+#### Main point extraction and Output formatting
+<img src="https://github.com/fabiomatricardi/KingOfTheTiny/blob/main/Screenshot%202024-01-09%20alle%2014.21.35.png" width=800>
