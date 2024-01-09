@@ -36,3 +36,11 @@ Here few screenshots with different use cases
 
 #### Main point extraction and Output formatting
 <img src="https://github.com/fabiomatricardi/KingOfTheTiny/blob/main/Screenshot%202024-01-09%20alle%2014.21.35.png" width=800>
+
+
+
+Extra:
+Learn how to use llama.cpp
+
+https://colab.research.google.com/github/hkitsmallpotato/llm-collections/blob/main/LLM_llamacpp_tutorial.ipynb
+
