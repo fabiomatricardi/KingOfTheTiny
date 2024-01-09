@@ -9,6 +9,8 @@ https://huggingface.co/afrideva/Tiny-Vicuna-1B-GGUF
 
 Hugging Face repo: afrideva/Tiny-Vicuna-1B-GGUF
 
+Original Model https://lmsys.org/blog/2023-03-30-vicuna/
+
 Tiny Vicuna 1B
 This model is a fine-tuned version of TinyLlama on WizardVicuna Dataset. 
 It should be fully compatible with Vicuna-v1.5 series.
