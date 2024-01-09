@@ -1,0 +1,341 @@
+time: 2024-01-09 13:42:01.534807
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: what is science? ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  Science is the study of knowledge, understanding, and explanation of natural phenomena through observation, experimentation, theoretical modeling, and empirical investigation. It involves a systematic approach to acquiring information about the world around us, using logic, reasoning, and critical thinking skills.
+Generated in 0:00:09.478078
+PromptTokens: Prompt Tokens: 43   Output Tokens: Out Tkns: 58  Total Tokens: Total Tkns: 101  Speed: 10.65616889837792
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: 
+---
+
+
+time: 2024-01-09 13:43:07.789775
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: write a daily schedule for a busy professional man. ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  Morning Routine
+
+6am - Wake up, have breakfast, check emails/messages, take care of personal tasks (like checking social media or answering work-related messages)
+7am - Take shower and get ready for the day
+8am - Check email/messages again, make a list of to-do items for the day
+9am - Start working on important projects or tasks
+10am - Have lunch (breakfast is usually included in the budget), take a break if needed
+12pm - Take a walk outside, stretch and relax
+1pm - Check email/messages again, make any necessary updates or follow-ups
+3pm - Start working on non-essential tasks
+4pm - Have dinner with family/friends (if possible)
+5pm - Tidy up the office/workspace, check emails/messages once more
+6pm - Take a break if needed, go for a walk or do some stretching exercises
+7pm - Check email/messages again, make any necessary updates or follow-ups
+8pm - Have dinner with family/friends (if possible)
+9pm - Tidy up the office/workspace, check emails/messages once more
+10pm - Take a break if needed, go for a walk or do some stretching exercises
+11pm - Check email/messages again, make any necessary updates or follow-ups
+12am - Wake up and start working on important projects or tasks.
+Generated in 0:00:18.847574
+PromptTokens: Prompt Tokens: 49   Output Tokens: Out Tkns: 320  Total Tokens: Total Tkns: 369  Speed: 19.578116525766127
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 🤮 BAD
+Generation notes: it is not correctly concluded
+---
+
+
+time: 2024-01-09 13:44:24.170292
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: predict the impact of artificial intelligence on agricolture in the near future ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  As an AI language model, I do not have personal opinions or beliefs but here are some predictions based on current trends and research:
+
+1. Increased productivity: Artificial Intelligence can automate many tasks that require repetitive labor, leading to increased efficiency in agriculture. This will lead to higher yields and reduced costs for farmers.
+
+2. Improved precision: AI-powered sensors and drones can collect data on soil moisture levels, temperature, and other factors that are difficult or impossible to measure manually. This information can be used to optimize crop growth patterns and reduce waste.
+
+3. Enhanced precision farming: By using machine learning algorithms, AI-powered sensors, and drones, farmers can monitor their crops in real time and adjust planting schedules accordingly. This will lead to higher yields while reducing the use of pesticides and fertilizers.
+
+4. Increased precision: AI can also be used for precision irrigation systems that can deliver water only when needed, reducing waste and increasing crop yield.
+
+5. Improved soil health: By analyzing data from sensors and drones, farmers can identify areas where nutrient deficiencies are occurring and take steps to address them before they become a problem. This will lead to better soil health and increased yields over time.
+Generated in 0:00:17.851587
+PromptTokens: Prompt Tokens: 54   Output Tokens: Out Tkns: 303  Total Tokens: Total Tkns: 357  Speed: 19.998222006816537
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: 
+---
+
+
+time: 2024-01-09 13:45:15.790480
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: write a dialogue between a cop and a suspect. ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  Cop: Good morning, sir.
+
+Suspect: Hi there! How are you doing?
+
+Cop: I am fine, thank you for asking. What brings you here today?
+
+Suspect: Well, actually, I was just walking down the street when I saw a man with a gun. He had been following me and he started to shoot at me.
+
+Cop: You're kidding! That can't be true. How did you know that guy was going to do something like that?
+
+Suspect: Well, actually, I saw him get out of his car and start shooting at the man who followed me. And then he started firing into a crowd of people.
+
+Cop: You're saying that this is all just an act?
+
+Suspect: Yes, it was an act. He had been following me for hours and I knew he would do something like that if he saw me. But I didn't expect him to actually shoot at me.
+
+Cop: Well, you were right about one thing - this guy is a badass! And he's not going to stop until he gets what he wants. So let's get the hell out of here and never speak to each other again.
+
+Suspect: I don't think so. He was just trying to protect himself, but he didn't know how to do it. And if we leave now, there might be more people who are going to die. So let's stay together and make sure that this guy never gets away with what he did.
+
+Cop: I agree with you, sir. Let's go. But first, can you tell me where the shooter is?
+Generated in 0:00:22.500424
+PromptTokens: Prompt Tokens: 50   Output Tokens: Out Tkns: 374  Total Tokens: Total Tkns: 424  Speed: 18.84408933804981
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: 
+---
+
+
+time: 2024-01-09 14:11:03.255541
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: Reply to the question only using the provided context.
+[context]WHAT IS HIERARCHY 4.0? whether you own build manage maintain or operate an oil plant inevitably issues arise that require immediate action and resolution. With big data flowing in constantly from all sectors making sense of everything while troubleshooting
+issues without wasting time can be a huge challenge.  So what's the solution?
+introducing hierarchy 4.0 and Innovative software solution for control Safety Systems . Hierarchy 4.0 presents an interactive diagram of the entire plant revealing cause and effect Behavior with readings provided in a hierarchical view allowing for a deep understanding of the system's strategy 
+All data is collected from multiple sources visualized as a diagram and optimized through a customized dashboard allowing users to run a logic simulation from live data or pick a moment from their history.  Your simulation is based on actual safety Logics not just on a math model 
+Now every users can prepare an RCA report 90 percent faster in just a few minutes. Hierarchy can be used for any project phase starting from engineering to commissioning and up to operation and maintenance while supporting hazop Hazard analysis by reducing human error and avoiding incorrect documentation. Hierarchy 4.0 supports plant operators in decision making taking into account both the safety and the operability of their assets.  Hierarchy 4.0 Embraces a block log approach: it automatically calculates all Logics affected by an
+override and gives a full understanding of constraints.  Not convinced let's look at the data! 
+During its first project hierarchy 4.0 prevented a revenue loss of 45 million dollars.  Plants that utilize hierarchy 4.0 save up to 95 of their time and deliver a return on investment up to five times in value from day one and experience a Personnel utilization and plant efficiency increase by 20 percent per year.Try our demo and make the move to hierarchy 4.0 today[end of context]
+
+Question: what is Hierarchy 4.0? ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  Hierarchy 4.0 is an innovative software solution for control safety systems that provides a deep understanding of the system's strategy through interactive diagrams and optimized dashboards. It allows users to run a logic simulation from live data or pick a moment from their history, reducing human error and avoiding incorrect documentation. The RCA report can be prepared in just a few minutes using Hierarchy 4.0's block log approach, which calculates all Logics affected by an override automatically. It supports plant operators in decision making taking into account both the safety and operability of their assets.
+Generated in 0:00:12.596310
+PromptTokens: Prompt Tokens: 495   Output Tokens: Out Tkns: 123  Total Tokens: Total Tkns: 618  Speed: 49.06198720101363
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: 
+---
+
+
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: 
+---
+
+
+time: 2024-01-09 14:15:22.537509
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: Summarize the provided context.
+[context]WHAT IS HIERARCHY 4.0? whether you own build manage maintain or operate an oil plant inevitably issues arise that require immediate action and resolution. With big data flowing in constantly from all sectors making sense of everything while troubleshooting
+issues without wasting time can be a huge challenge.  So what's the solution?
+introducing hierarchy 4.0 and Innovative software solution for control Safety Systems . Hierarchy 4.0 presents an interactive diagram of the entire plant revealing cause and effect Behavior with readings provided in a hierarchical view allowing for a deep understanding of the system's strategy 
+All data is collected from multiple sources visualized as a diagram and optimized through a customized dashboard allowing users to run a logic simulation from live data or pick a moment from their history.  Your simulation is based on actual safety Logics not just on a math model 
+Now every users can prepare an RCA report 90 percent faster in just a few minutes. Hierarchy can be used for any project phase starting from engineering to commissioning and up to operation and maintenance while supporting hazop Hazard analysis by reducing human error and avoiding incorrect documentation. Hierarchy 4.0 supports plant operators in decision making taking into account both the safety and the operability of their assets.  Hierarchy 4.0 Embraces a block log approach: it automatically calculates all Logics affected by an
+override and gives a full understanding of constraints.  Not convinced let's look at the data! 
+During its first project hierarchy 4.0 prevented a revenue loss of 45 million dollars.  Plants that utilize hierarchy 4.0 save up to 95 of their time and deliver a return on investment up to five times in value from day one and experience a Personnel utilization and plant efficiency increase by 20 percent per year.Try our demo and make the move to hierarchy 4.0 today[end of context]
+ ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  The provided context is about an innovative software solution for controlling safety systems, which can help prevent accidents in oil plants. It introduces a hierarchical diagram that visualizes all data from multiple sources, including readings and behavioral logs. This allows users to run a logic simulation from live data or pick a moment from their history. The simulation is based on actual safety logics not just on a math model, which makes it faster for plant operators to prepare an RCA report. Hierarchy can be used for any project phase starting from engineering to commissioning and up to operation and maintenance while supporting hazop Hazard analysis by reducing human error and avoiding incorrect documentation. The hierarchical approach supports plant operators in decision making taking into account both the safety and operability of their assets, which is a key aspect of this context.
+Generated in 0:00:15.434172
+PromptTokens: Prompt Tokens: 479   Output Tokens: Out Tkns: 174  Total Tokens: Total Tkns: 653  Speed: 42.308716010162385
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: 
+---
+
+
+time: 2024-01-09 14:16:07.675850
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: write a concise summary of the provided text:
+[text]WHAT IS HIERARCHY 4.0? whether you own build manage maintain or operate an oil plant inevitably issues arise that require immediate action and resolution. With big data flowing in constantly from all sectors making sense of everything while troubleshooting
+issues without wasting time can be a huge challenge.  So what's the solution?
+introducing hierarchy 4.0 and Innovative software solution for control Safety Systems . Hierarchy 4.0 presents an interactive diagram of the entire plant revealing cause and effect Behavior with readings provided in a hierarchical view allowing for a deep understanding of the system's strategy 
+All data is collected from multiple sources visualized as a diagram and optimized through a customized dashboard allowing users to run a logic simulation from live data or pick a moment from their history.  Your simulation is based on actual safety Logics not just on a math model 
+Now every users can prepare an RCA report 90 percent faster in just a few minutes. Hierarchy can be used for any project phase starting from engineering to commissioning and up to operation and maintenance while supporting hazop Hazard analysis by reducing human error and avoiding incorrect documentation. Hierarchy 4.0 supports plant operators in decision making taking into account both the safety and the operability of their assets.  Hierarchy 4.0 Embraces a block log approach: it automatically calculates all Logics affected by an
+override and gives a full understanding of constraints.  Not convinced let's look at the data! 
+During its first project hierarchy 4.0 prevented a revenue loss of 45 million dollars.  Plants that utilize hierarchy 4.0 save up to 95 of their time and deliver a return on investment up to five times in value from day one and experience a Personnel utilization and plant efficiency increase by 20 percent per year.Try our demo and make the move to hierarchy 4.0 today[end of text]
+ ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  The provided summary is concise, clear, and informative. It provides an overview of the Hierarchy 4.0 software solution that helps in controlling safety systems by providing a deep understanding of the system's behavior through interactive diagrams and optimized dashboards. The solution also supports plant operators in decision making taking into account both the safety and operability of their assets, reducing human error and avoiding incorrect documentation. It provides block log approach to calculate all Logics affected by an override, preventing revenue loss of 45 million dollars during its first project.
+Generated in 0:00:12.093943
+PromptTokens: Prompt Tokens: 482   Output Tokens: Out Tkns: 119  Total Tokens: Total Tkns: 601  Speed: 49.694297385062924
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: 
+---
+
+
+time: 2024-01-09 14:16:47.692037
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: write a concise summary of the provided text. Reply only with the summary.
+[text]WHAT IS HIERARCHY 4.0? whether you own build manage maintain or operate an oil plant inevitably issues arise that require immediate action and resolution. With big data flowing in constantly from all sectors making sense of everything while troubleshooting
+issues without wasting time can be a huge challenge.  So what's the solution?
+introducing hierarchy 4.0 and Innovative software solution for control Safety Systems . Hierarchy 4.0 presents an interactive diagram of the entire plant revealing cause and effect Behavior with readings provided in a hierarchical view allowing for a deep understanding of the system's strategy 
+All data is collected from multiple sources visualized as a diagram and optimized through a customized dashboard allowing users to run a logic simulation from live data or pick a moment from their history.  Your simulation is based on actual safety Logics not just on a math model 
+Now every users can prepare an RCA report 90 percent faster in just a few minutes. Hierarchy can be used for any project phase starting from engineering to commissioning and up to operation and maintenance while supporting hazop Hazard analysis by reducing human error and avoiding incorrect documentation. Hierarchy 4.0 supports plant operators in decision making taking into account both the safety and the operability of their assets.  Hierarchy 4.0 Embraces a block log approach: it automatically calculates all Logics affected by an
+override and gives a full understanding of constraints.  Not convinced let's look at the data! 
+During its first project hierarchy 4.0 prevented a revenue loss of 45 million dollars.  Plants that utilize hierarchy 4.0 save up to 95 of their time and deliver a return on investment up to five times in value from day one and experience a Personnel utilization and plant efficiency increase by 20 percent per year.Try our demo and make the move to hierarchy 4.0 today[end of text]
+ ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  The provided summary is concise, informative, and easy to understand. It clearly explains what Hierarchy 4.0 is all about and how it can help in managing a plant's safety systems.
+Generated in 0:00:07.603494
+PromptTokens: Prompt Tokens: 489   Output Tokens: Out Tkns: 45  Total Tokens: Total Tkns: 534  Speed: 70.23087017626369
+---
+time: 2024-01-09 14:17:18.698698
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: Summarize the text. Reply only with the summary.
+[text]WHAT IS HIERARCHY 4.0? whether you own build manage maintain or operate an oil plant inevitably issues arise that require immediate action and resolution. With big data flowing in constantly from all sectors making sense of everything while troubleshooting
+issues without wasting time can be a huge challenge.  So what's the solution?
+introducing hierarchy 4.0 and Innovative software solution for control Safety Systems . Hierarchy 4.0 presents an interactive diagram of the entire plant revealing cause and effect Behavior with readings provided in a hierarchical view allowing for a deep understanding of the system's strategy 
+All data is collected from multiple sources visualized as a diagram and optimized through a customized dashboard allowing users to run a logic simulation from live data or pick a moment from their history.  Your simulation is based on actual safety Logics not just on a math model 
+Now every users can prepare an RCA report 90 percent faster in just a few minutes. Hierarchy can be used for any project phase starting from engineering to commissioning and up to operation and maintenance while supporting hazop Hazard analysis by reducing human error and avoiding incorrect documentation. Hierarchy 4.0 supports plant operators in decision making taking into account both the safety and the operability of their assets.  Hierarchy 4.0 Embraces a block log approach: it automatically calculates all Logics affected by an
+override and gives a full understanding of constraints.  Not convinced let's look at the data! 
+During its first project hierarchy 4.0 prevented a revenue loss of 45 million dollars.  Plants that utilize hierarchy 4.0 save up to 95 of their time and deliver a return on investment up to five times in value from day one and experience a Personnel utilization and plant efficiency increase by 20 percent per year.Try our demo and make the move to hierarchy 4.0 today[end of text]
+ ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  The summary is that Hierarchy 4.0 is an innovative software solution for control safety systems, which allows users to prepare RCA reports in just a few minutes. It supports plant operators in decision making taking into account both the safety and operability of their assets.
+Generated in 0:00:08.563684
+PromptTokens: Prompt Tokens: 485   Output Tokens: Out Tkns: 57  Total Tokens: Total Tkns: 542  Speed: 63.290518426415545
+---
+time: 2024-01-09 14:17:42.149785
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: Summarize the text. Reply only with the summary.
+[text]WHAT IS HIERARCHY 4.0? whether you own build manage maintain or operate an oil plant inevitably issues arise that require immediate action and resolution. With big data flowing in constantly from all sectors making sense of everything while troubleshooting
+issues without wasting time can be a huge challenge.  So what's the solution?
+introducing hierarchy 4.0 and Innovative software solution for control Safety Systems . Hierarchy 4.0 presents an interactive diagram of the entire plant revealing cause and effect Behavior with readings provided in a hierarchical view allowing for a deep understanding of the system's strategy 
+All data is collected from multiple sources visualized as a diagram and optimized through a customized dashboard allowing users to run a logic simulation from live data or pick a moment from their history.  Your simulation is based on actual safety Logics not just on a math model 
+Now every users can prepare an RCA report 90 percent faster in just a few minutes. Hierarchy can be used for any project phase starting from engineering to commissioning and up to operation and maintenance while supporting hazop Hazard analysis by reducing human error and avoiding incorrect documentation. Hierarchy 4.0 supports plant operators in decision making taking into account both the safety and the operability of their assets.  Hierarchy 4.0 Embraces a block log approach: it automatically calculates all Logics affected by an
+override and gives a full understanding of constraints.  Not convinced let's look at the data! 
+During its first project hierarchy 4.0 prevented a revenue loss of 45 million dollars.  Plants that utilize hierarchy 4.0 save up to 95 of their time and deliver a return on investment up to five times in value from day one and experience a Personnel utilization and plant efficiency increase by 20 percent per year.Try our demo and make the move to hierarchy 4.0 today[end of text]
+
+- SUMMARY: //
+ ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  The summary is that Hierarchy 4.0 is an innovative software solution for control safety systems, which provides a deep understanding of the system's strategy through interactive diagrams and optimized dashboards. It allows users to run a logic simulation from live data or pick a moment from their history, reducing human error and avoiding incorrect documentation. Hierarchy 4.0 supports plant operators in decision making taking into account both safety and operability of assets. The block log approach ensures that all Logics are calculated automatically, preventing revenue loss due to overrides. Plants that utilize hierarchy 4.0 save up to 95% time and deliver a return on investment up to five times in value from day one.
+Generated in 0:00:09.429995
+PromptTokens: Prompt Tokens: 493   Output Tokens: Out Tkns: 153  Total Tokens: Total Tkns: 646  Speed: 68.50480832704578
+---
+time: 2024-01-09 14:18:01.263796
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: Summarize the text.
+[text]WHAT IS HIERARCHY 4.0? whether you own build manage maintain or operate an oil plant inevitably issues arise that require immediate action and resolution. With big data flowing in constantly from all sectors making sense of everything while troubleshooting
+issues without wasting time can be a huge challenge.  So what's the solution?
+introducing hierarchy 4.0 and Innovative software solution for control Safety Systems . Hierarchy 4.0 presents an interactive diagram of the entire plant revealing cause and effect Behavior with readings provided in a hierarchical view allowing for a deep understanding of the system's strategy 
+All data is collected from multiple sources visualized as a diagram and optimized through a customized dashboard allowing users to run a logic simulation from live data or pick a moment from their history.  Your simulation is based on actual safety Logics not just on a math model 
+Now every users can prepare an RCA report 90 percent faster in just a few minutes. Hierarchy can be used for any project phase starting from engineering to commissioning and up to operation and maintenance while supporting hazop Hazard analysis by reducing human error and avoiding incorrect documentation. Hierarchy 4.0 supports plant operators in decision making taking into account both the safety and the operability of their assets.  Hierarchy 4.0 Embraces a block log approach: it automatically calculates all Logics affected by an
+override and gives a full understanding of constraints.  Not convinced let's look at the data! 
+During its first project hierarchy 4.0 prevented a revenue loss of 45 million dollars.  Plants that utilize hierarchy 4.0 save up to 95 of their time and deliver a return on investment up to five times in value from day one and experience a Personnel utilization and plant efficiency increase by 20 percent per year.Try our demo and make the move to hierarchy 4.0 today[end of text]
+
+- SUMMARY: //
+ ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  The summary of the text is that Hierarchy 4.0 is an innovative software solution for controlling safety systems in oil plants, which helps operators to manage and operate their assets more efficiently by providing a deep understanding of the system's strategy. It also reduces human error and avoids incorrect documentation, leading to better decision-making and increased plant efficiency. The text further explains that Hierarchy 4.0 supports plant operators in making informed decisions about how to prevent incidents and maintain safety while reducing costs.
+Generated in 0:00:11.506198
+PromptTokens: Prompt Tokens: 486   Output Tokens: Out Tkns: 107  Total Tokens: Total Tkns: 593  Speed: 51.537440951389854
+---
+time: 2024-01-09 14:18:20.545272
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: Summarize the text.
+[text]WHAT IS HIERARCHY 4.0? whether you own build manage maintain or operate an oil plant inevitably issues arise that require immediate action and resolution. With big data flowing in constantly from all sectors making sense of everything while troubleshooting
+issues without wasting time can be a huge challenge.  So what's the solution?
+introducing hierarchy 4.0 and Innovative software solution for control Safety Systems . Hierarchy 4.0 presents an interactive diagram of the entire plant revealing cause and effect Behavior with readings provided in a hierarchical view allowing for a deep understanding of the system's strategy 
+All data is collected from multiple sources visualized as a diagram and optimized through a customized dashboard allowing users to run a logic simulation from live data or pick a moment from their history.  Your simulation is based on actual safety Logics not just on a math model 
+Now every users can prepare an RCA report 90 percent faster in just a few minutes. Hierarchy can be used for any project phase starting from engineering to commissioning and up to operation and maintenance while supporting hazop Hazard analysis by reducing human error and avoiding incorrect documentation. Hierarchy 4.0 supports plant operators in decision making taking into account both the safety and the operability of their assets.  Hierarchy 4.0 Embraces a block log approach: it automatically calculates all Logics affected by an
+override and gives a full understanding of constraints.  Not convinced let's look at the data! 
+During its first project hierarchy 4.0 prevented a revenue loss of 45 million dollars.  Plants that utilize hierarchy 4.0 save up to 95 of their time and deliver a return on investment up to five times in value from day one and experience a Personnel utilization and plant efficiency increase by 20 percent per year.Try our demo and make the move to hierarchy 4.0 today[end of text]
+
+- SUMMARY:  ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  The summary highlights the benefits of using Hierarchy 4.0 software solution for controlling safety systems in oil plants, including increased efficiency, reduced costs, improved plant performance, and enhanced safety.
+Generated in 0:00:02.554091
+PromptTokens: Prompt Tokens: 485   Output Tokens: Out Tkns: 43  Total Tokens: Total Tkns: 528  Speed: 206.72716829588296
+---
+time: 2024-01-09 14:18:39.164562
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: [text]WHAT IS HIERARCHY 4.0? whether you own build manage maintain or operate an oil plant inevitably issues arise that require immediate action and resolution. With big data flowing in constantly from all sectors making sense of everything while troubleshooting
+issues without wasting time can be a huge challenge.  So what's the solution?
+introducing hierarchy 4.0 and Innovative software solution for control Safety Systems . Hierarchy 4.0 presents an interactive diagram of the entire plant revealing cause and effect Behavior with readings provided in a hierarchical view allowing for a deep understanding of the system's strategy 
+All data is collected from multiple sources visualized as a diagram and optimized through a customized dashboard allowing users to run a logic simulation from live data or pick a moment from their history.  Your simulation is based on actual safety Logics not just on a math model 
+Now every users can prepare an RCA report 90 percent faster in just a few minutes. Hierarchy can be used for any project phase starting from engineering to commissioning and up to operation and maintenance while supporting hazop Hazard analysis by reducing human error and avoiding incorrect documentation. Hierarchy 4.0 supports plant operators in decision making taking into account both the safety and the operability of their assets.  Hierarchy 4.0 Embraces a block log approach: it automatically calculates all Logics affected by an
+override and gives a full understanding of constraints.  Not convinced let's look at the data! 
+During its first project hierarchy 4.0 prevented a revenue loss of 45 million dollars.  Plants that utilize hierarchy 4.0 save up to 95 of their time and deliver a return on investment up to five times in value from day one and experience a Personnel utilization and plant efficiency increase by 20 percent per year.Try our demo and make the move to hierarchy 4.0 today[end of text]
+
+- SUMMARY:  ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  Hierarchy 4.0 is an innovative software solution for control safety systems that provides a deep understanding of the system's strategy, visualizing data in a hierarchical view and optimizing through a customized dashboard. It allows users to prepare RCA reports faster by reducing human error and avoiding incorrect documentation. Hierarchy 4.0 supports plant operators in decision making taking into account both safety and operability of their assets.
+Generated in 0:00:10.255456
+PromptTokens: Prompt Tokens: 478   Output Tokens: Out Tkns: 92  Total Tokens: Total Tkns: 570  Speed: 55.5801711791265
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: 
+---
+
+
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: 
+---
+
+
+time: 2024-01-09 14:20:10.651686
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: Write the main points of the following text.
+[text]WHAT IS HIERARCHY 4.0? whether you own build manage maintain or operate an oil plant inevitably issues arise that require immediate action and resolution. With big data flowing in constantly from all sectors making sense of everything while troubleshooting
+issues without wasting time can be a huge challenge.  So what's the solution?
+introducing hierarchy 4.0 and Innovative software solution for control Safety Systems . Hierarchy 4.0 presents an interactive diagram of the entire plant revealing cause and effect Behavior with readings provided in a hierarchical view allowing for a deep understanding of the system's strategy 
+All data is collected from multiple sources visualized as a diagram and optimized through a customized dashboard allowing users to run a logic simulation from live data or pick a moment from their history.  Your simulation is based on actual safety Logics not just on a math model 
+Now every users can prepare an RCA report 90 percent faster in just a few minutes. Hierarchy can be used for any project phase starting from engineering to commissioning and up to operation and maintenance while supporting hazop Hazard analysis by reducing human error and avoiding incorrect documentation. Hierarchy 4.0 supports plant operators in decision making taking into account both the safety and the operability of their assets.  Hierarchy 4.0 Embraces a block log approach: it automatically calculates all Logics affected by an
+override and gives a full understanding of constraints.  Not convinced let's look at the data! 
+During its first project hierarchy 4.0 prevented a revenue loss of 45 million dollars.  Plants that utilize hierarchy 4.0 save up to 95 of their time and deliver a return on investment up to five times in value from day one and experience a Personnel utilization and plant efficiency increase by 20 percent per year.Try our demo and make the move to hierarchy 4.0 today[end of text]
+ ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  The main points of this text are that Hierarchy 4.0 is an innovative software solution for control safety systems, which provides a deep understanding of the system's strategy through interactive diagrams and optimized dashboards. It also supports plant operators in decision making taking into account both the safety and operability of their assets. The benefits of using Hierarchy 4.0 are significant, including reduced human error, improved decision-making, increased efficiency, and a reduction in time and costs associated with maintenance.
+Generated in 0:00:11.036460
+PromptTokens: Prompt Tokens: 481   Output Tokens: Out Tkns: 105  Total Tokens: Total Tkns: 586  Speed: 53.09673572866662
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: 
+---
+
+
+time: 2024-01-09 14:20:55.144841
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: Write the main points of the following text.
+[text]WHAT IS HIERARCHY 4.0? whether you own build manage maintain or operate an oil plant inevitably issues arise that require immediate action and resolution. With big data flowing in constantly from all sectors making sense of everything while troubleshooting
+issues without wasting time can be a huge challenge.  So what's the solution?
+introducing hierarchy 4.0 and Innovative software solution for control Safety Systems . Hierarchy 4.0 presents an interactive diagram of the entire plant revealing cause and effect Behavior with readings provided in a hierarchical view allowing for a deep understanding of the system's strategy 
+All data is collected from multiple sources visualized as a diagram and optimized through a customized dashboard allowing users to run a logic simulation from live data or pick a moment from their history.  Your simulation is based on actual safety Logics not just on a math model 
+Now every users can prepare an RCA report 90 percent faster in just a few minutes. Hierarchy can be used for any project phase starting from engineering to commissioning and up to operation and maintenance while supporting hazop Hazard analysis by reducing human error and avoiding incorrect documentation. Hierarchy 4.0 supports plant operators in decision making taking into account both the safety and the operability of their assets.  Hierarchy 4.0 Embraces a block log approach: it automatically calculates all Logics affected by an
+override and gives a full understanding of constraints.  Not convinced let's look at the data! 
+During its first project hierarchy 4.0 prevented a revenue loss of 45 million dollars.  Plants that utilize hierarchy 4.0 save up to 95 of their time and deliver a return on investment up to five times in value from day one and experience a Personnel utilization and plant efficiency increase by 20 percent per year.Try our demo and make the move to hierarchy 4.0 today[end of text]
+
+format the output as a markdown list. ASSISTANT:
+TinyVicuna1B-q8-GGUF_1 B:  - Hierarchy 4.0 is an innovative software solution for control safety systems that provides a deep understanding of the system's strategy through interactive diagrams, optimized with a customized dashboard and supported by RCA reports.
+- All data is collected from multiple sources visualized as a hierarchical view allowing users to run a logic simulation from live data or pick a moment from their history.
+- Your simulation is based on actual safety logics not just on a math model, making it faster and more accurate for any project phase starting from engineering to commissioning and up to operation and maintenance.
+- Hierarchy can be used for any project phase starting from engineering to commissioning and up to operation and maintenance while supporting hazop Hazard analysis by reducing human error and avoiding incorrect documentation.
+- Hierarchy 4.0 supports plant operators in decision making taking into account both the safety and the operability of their assets, with a block log approach that calculates all Logics affected by an override automatically.
+- Not convinced let's look at the data! During its first project hierarchy 4.0 prevented a revenue loss of 45 million dollars, saving up to 95 of their time and delivering a return on investment up to five times in value from day one and experiencing a Personnel utilization and plant efficiency increase by 20 percent per year.
+- Try our demo and make the move to hierarchy 4.0 today!
+Generated in 0:00:19.183636
+PromptTokens: Prompt Tokens: 491   Output Tokens: Out Tkns: 308  Total Tokens: Total Tkns: 799  Speed: 41.65008135058442
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: 
+---
+
+
